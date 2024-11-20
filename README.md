@@ -20,7 +20,7 @@ Data Professionals Survey Data: The primary data source for this project is "Pow
 - Microsoft PowerBI
 
 ## Data Preparation
-The data source is an "xlsx" file, so it would not be uncommon to prepare the data using the Microsoft Excel app. But since PowerBI has the Power Query interface, naturally, all data cleaning was carried out there instead. 
+The data source is an "xlsx" file, so it would not be uncommon to prepare the data using the Microsoft Excel app. However, since PowerBI has the Power Query interface, all data cleaning was carried out there instead. 
 
 Since this is data sourced from survey answers, there is some degree of order to be exepected but there was still some cleaning to be done. For example, the age, salary, job titles, favorite programming languages and other columns had too much unstandardized data under the "Other" options.
 
