@@ -1,4 +1,4 @@
-# PowerBI-Data-Survery
+# PowerBI-Data-Survey
 
 ## Table of Content
 - [Project Overview](#project-overview)
@@ -44,7 +44,7 @@ Our findings from our data analysis shows the following;
 1. 630 data professionals took the survey, with the average age being 29.87 years
 2. On average, data scientists earn the highest salaries
 3. The preferred programming language for data professionals is python by a longshot
-4. While more than average (5.74/10) are happy with their Work-Life balance, less than average (4.27/10) are satisifed with their salaries.
+4. While more than average (5.74/10) are happy with their Work-Life balance, less than average (4.27/10) are satisfied with their salaries.
 5. We can observe that on average, most data professionals did not have too much of a hard time breaking into the industry.
 
 ## Recommendations
